@@ -1,0 +1,10 @@
+C:\Documents and Settings\takbulut\Desktop\ArcObject_Egitim\Sources\ArcObjectsEgitim\DesktopUygulamasi\bin\Debug\DesktopUygulamasi.dll
+C:\Documents and Settings\takbulut\Desktop\ArcObject_Egitim\Sources\ArcObjectsEgitim\DesktopUygulamasi\bin\Debug\ArcObjectsEgitim.dll
+C:\Documents and Settings\takbulut\Desktop\ArcObject_Egitim\Sources\ArcObjectsEgitim\DesktopUygulamasi\bin\Debug\ArcObjectsEgitim.pdb
+C:\Documents and Settings\takbulut\Desktop\ArcObject_Egitim\Sources\ArcObjectsEgitim\DesktopUygulamasi\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\takbulut\Desktop\ArcObject_Egitim\Sources\ArcObjectsEgitim\DesktopUygulamasi\obj\Debug\DesktopUygulamasi.frmInfo.resources
+C:\Documents and Settings\takbulut\Desktop\ArcObject_Egitim\Sources\ArcObjectsEgitim\DesktopUygulamasi\obj\Debug\DesktopUygulamasi.csproj.GenerateResource.Cache
+C:\Documents and Settings\takbulut\Desktop\ArcObject_Egitim\Sources\ArcObjectsEgitim\DesktopUygulamasi\obj\Debug\DesktopUygulamasi.dll
+C:\Documents and Settings\takbulut\Desktop\ArcObject_Egitim\Sources\ArcObjectsEgitim\DesktopUygulamasi\obj\Debug\DesktopUygulamasi.pdb
+C:\Documents and Settings\takbulut\Desktop\ArcObject_Egitim\Sources\ArcObjectsEgitim\DesktopUygulamasi\bin\Debug\DesktopUygulamasi.pdb
+C:\Documents and Settings\takbulut\Desktop\ArcObject_Egitim\Sources\ArcObjectsEgitim\DesktopUygulamasi\bin\Debug\DesktopUygulamasi.tlb

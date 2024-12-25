@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArcObjectsEgitim", "ArcObjectsEgitim\ArcObjectsEgitim.csproj", "{7593FF96-10C3-4BD7-A2C3-4DD80AB713F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EngineUygulamasi", "EngineUygulamasi\EngineUygulamasi.csproj", "{F656A31C-B79D-418C-80EE-E77923C9EC52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesktopUygulamasi", "DesktopUygulamasi\DesktopUygulamasi.csproj", "{F04475C3-4443-4A8B-9F52-BBA07D252FF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7593FF96-10C3-4BD7-A2C3-4DD80AB713F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7593FF96-10C3-4BD7-A2C3-4DD80AB713F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7593FF96-10C3-4BD7-A2C3-4DD80AB713F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7593FF96-10C3-4BD7-A2C3-4DD80AB713F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F656A31C-B79D-418C-80EE-E77923C9EC52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F656A31C-B79D-418C-80EE-E77923C9EC52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F656A31C-B79D-418C-80EE-E77923C9EC52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F656A31C-B79D-418C-80EE-E77923C9EC52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F04475C3-4443-4A8B-9F52-BBA07D252FF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F04475C3-4443-4A8B-9F52-BBA07D252FF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F04475C3-4443-4A8B-9F52-BBA07D252FF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F04475C3-4443-4A8B-9F52-BBA07D252FF9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

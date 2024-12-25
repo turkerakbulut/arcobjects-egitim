@@ -1,0 +1,2 @@
+obj\Debug\EngineUygulamasi.exe
+obj\Debug\EngineUygulamasi.pdb

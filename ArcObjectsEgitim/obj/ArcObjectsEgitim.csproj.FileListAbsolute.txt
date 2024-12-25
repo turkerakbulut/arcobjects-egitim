@@ -1,0 +1,5 @@
+C:\Documents and Settings\takbulut\Desktop\ArcObject_Egitim\Sources\ArcObjectsEgitim\ArcObjectsEgitim\bin\Debug\ArcObjectsEgitim.dll
+C:\Documents and Settings\takbulut\Desktop\ArcObject_Egitim\Sources\ArcObjectsEgitim\ArcObjectsEgitim\bin\Debug\ArcObjectsEgitim.pdb
+C:\Documents and Settings\takbulut\Desktop\ArcObject_Egitim\Sources\ArcObjectsEgitim\ArcObjectsEgitim\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\takbulut\Desktop\ArcObject_Egitim\Sources\ArcObjectsEgitim\ArcObjectsEgitim\obj\Debug\ArcObjectsEgitim.dll
+C:\Documents and Settings\takbulut\Desktop\ArcObject_Egitim\Sources\ArcObjectsEgitim\ArcObjectsEgitim\obj\Debug\ArcObjectsEgitim.pdb
