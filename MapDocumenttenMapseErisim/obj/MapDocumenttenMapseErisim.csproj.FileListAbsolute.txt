@@ -1,0 +1,6 @@
+C:\Documents and Settings\takbulut\Desktop\ArcObject_Egitim\Sources\MapDocumenttenMapseErisim\MapDocumenttenMapseErisim\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\takbulut\Desktop\ArcObject_Egitim\Sources\MapDocumenttenMapseErisim\MapDocumenttenMapseErisim\bin\Debug\MapDocumenttenMapseErisim.dll
+C:\Documents and Settings\takbulut\Desktop\ArcObject_Egitim\Sources\MapDocumenttenMapseErisim\MapDocumenttenMapseErisim\bin\Debug\MapDocumenttenMapseErisim.pdb
+C:\Documents and Settings\takbulut\Desktop\ArcObject_Egitim\Sources\MapDocumenttenMapseErisim\MapDocumenttenMapseErisim\bin\Debug\MapDocumenttenMapseErisim.tlb
+C:\Documents and Settings\takbulut\Desktop\ArcObject_Egitim\Sources\MapDocumenttenMapseErisim\MapDocumenttenMapseErisim\obj\Debug\MapDocumenttenMapseErisim.dll
+C:\Documents and Settings\takbulut\Desktop\ArcObject_Egitim\Sources\MapDocumenttenMapseErisim\MapDocumenttenMapseErisim\obj\Debug\MapDocumenttenMapseErisim.pdb
